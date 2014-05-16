@@ -22,10 +22,10 @@ Installation on Chrome :
     Install this script
 
 Configure eZ Publish by changing site.ini.append.php :
-[DebugSettings]
-# To active the debugger
-DebugOutput=enabled
+    [DebugSettings]
+    # To active the debugger
+    DebugOutput=enabled
  
-[TemplateSettings]
-# To active the DOM Inspector
-Debug=enabled
+    [TemplateSettings]
+    # To active the DOM Inspector
+    Debug=enabled
