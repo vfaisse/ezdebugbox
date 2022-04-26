@@ -29,3 +29,6 @@ Configure eZ Publish by changing site.ini.append.php :
     [TemplateSettings]
     # To active the DOM Inspector
     Debug=enabled
+    
+    
+    testst
